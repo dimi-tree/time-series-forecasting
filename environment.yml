@@ -1,0 +1,15 @@
+name: ts-forecasting
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - jupyterlab=3
+  - numpy
+  - seaborn
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - jedi=0.17.2
+  - statsmodels
+prefix: /Users/dimitri/opt/miniconda3/envs/ts-forecasting
