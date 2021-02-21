@@ -12,4 +12,6 @@ dependencies:
   - scikit-learn
   - jedi=0.17.2
   - statsmodels
+  - pip:
+    - pydlm
 prefix: /Users/dimitri/opt/miniconda3/envs/ts-forecasting
