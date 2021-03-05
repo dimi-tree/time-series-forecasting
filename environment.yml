@@ -10,11 +10,11 @@ dependencies:
   - mkl-service
   - numpy
   - pandas
-  - pymc3
   - python=3.8
   - scikit-learn
   - seaborn
   - statsmodels
   - pip:
     - pydlm
+    - pymc3
 prefix: /Users/dimitri/opt/miniconda3/envs/ts-forecasting
