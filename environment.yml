@@ -4,12 +4,14 @@ channels:
   - defaults
 dependencies:
   - arviz=0.11.0
+  - fbprophet
   - jedi=0.17.2
   - jupyterlab=3
   - matplotlib
   - mkl-service
   - numpy
   - pandas
+  - plotly
   - python=3.8
   - scikit-learn
   - seaborn
